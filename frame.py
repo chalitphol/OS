@@ -1,5 +1,3 @@
-ref = []
-
 def FIFO(frameSize,refString):
     frame = [0] * frameSize
     refPoint = 0
